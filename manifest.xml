@@ -17,7 +17,7 @@
   <SupportUrl DefaultValue="https://console.mistral.ai"/>
 
   <AppDomains>
-    <AppDomain>https://YOUR-HOST</AppDomain>
+    <AppDomain>https://saincyr.github.io</AppDomain>
   </AppDomains>
 
   <Hosts>
